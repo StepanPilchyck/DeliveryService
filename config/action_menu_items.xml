@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="action_menu_items.xsl"?>
+<!DOCTYPE menu SYSTEM "action_menu_items.dtd">
+<menu>
+    <top_level_item top_level_item_name="work">
+        <menu_item name="file" />
+        <menu_item name="register" />
+        <menu_item name="one" />
+    </top_level_item>
+    <top_level_item top_level_item_name="NAME2">
+        <menu_item name="name21" />
+        <menu_item name="item1" />
+        <menu_item name="item2" />
+    </top_level_item>
+    <top_level_item top_level_item_name="NAME3">
+        <menu_item name="name31" />
+        <menu_item name="item3" />
+        <menu_item name="item1" />
+    </top_level_item>
+</menu>

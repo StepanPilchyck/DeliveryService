@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!ELEMENT pages (page)*>
+
+<!ELEMENT page (func_view)*>
+<!ATTLIST page
+    menu_item CDATA #REQUIRED
+    page_name CDATA #REQUIRED
+  >
+
+<!ELEMENT func_view EMPTY>
+<!ATTLIST func_view
+    name CDATA #REQUIRED
+    right CDATA #REQUIRED
+  >

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="main_menu_items.xsl"?>
+<!DOCTYPE menu SYSTEM "main_menu_items.dtd">
+<menu>
+    <item name="work" />   
+    <item name="settings" /> 
+    <item name="messages" /> 
+</menu>

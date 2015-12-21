@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!ELEMENT menu (top_level_item)*>
+
+<!ELEMENT top_level_item (menu_item)*>
+<!ATTLIST top_level_item
+    top_level_item_name CDATA #REQUIRED
+  >
+
+<!ELEMENT menu_item EMPTY>
+<!ATTLIST menu_item
+    name CDATA #REQUIRED
+  >

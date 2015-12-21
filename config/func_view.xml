@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="func_view.xsl"?>
+<!DOCTYPE pages SYSTEM "func_view.dtd">
+<pages>
+    <page page_name="/package/add/register" menu_item = "register">
+        <func_view right="test_right1" name="name1" />
+        <func_view right="name2" name="name2" />
+        <func_view right="name3" name="name3" />
+        <func_view right="name4" name="name4" />
+        <func_view right="name5" name="name5" />
+    </page>
+    <page page_name="page1" menu_item = "item2">
+        <func_view right="test_right1" name="name4" />
+        <func_view right="test_right2" name="name1" />
+        <func_view right="name2" name="name2" />
+        <func_view right="test_right3" name="name3" />
+        <func_view right="name5" name="name5" />
+    </page>
+    <page page_name="page2" menu_item = "item3">
+        <func_view right="test_right3" name="name1" />
+        <func_view right="name2" name="name2" />
+        <func_view right="name3" name="name3" />
+        <func_view right="name4" name="name4" />
+        <func_view right="name5" name="name5" />
+    </page>
+</pages>

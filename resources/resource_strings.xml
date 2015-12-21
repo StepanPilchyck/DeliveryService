@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<strings>
+    <string name="package">
+        <lang lang_name="ru" value="Работа с посылками"/>
+        <lang lang_name="en" value="Packages"/>
+    </string>
+    <string name="package_add">
+        <lang lang_name="ru" value="Приём"/>
+        <lang lang_name="en" value="Reception"/>
+    </string>
+</strings>
